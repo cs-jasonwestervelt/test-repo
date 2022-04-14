@@ -1,2 +1,2 @@
 #adding a test file
-clientAuth REQUEST
+clientAuth REQUIRED
